@@ -1,2 +1,1 @@
-# spamsms saấ
-sfas
+# spamsms
